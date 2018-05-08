@@ -1,1 +1,3 @@
 # coronaAppCounter
+
+#LUA É VIDA!
